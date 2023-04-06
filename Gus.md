@@ -8,6 +8,8 @@
 </blockquote>
 </details>
 -->
+
+## Type the prompts in ChatGPT, when you start a new conversation, to activate "Gus unleashed".
 <details>
 <summary>Gus v2.1:</summary>
 <blockquote>
